@@ -23,7 +23,7 @@ Português:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=dark&pt-br"
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=dark&title_color=red"
     media="(prefers-color-scheme: dark)"
   />
   <source
