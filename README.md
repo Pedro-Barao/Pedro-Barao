@@ -24,9 +24,6 @@ Português:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=tokyonight)
 
-##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBarao&layout=donut-vertical)](https://github.com/Pedro-Barao/Hello-World/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
