@@ -23,12 +23,12 @@ Português:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=dark&title_color=red"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark), (title_color=red)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&title_color=red"
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&title_color=red" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true" />
 </picture>
