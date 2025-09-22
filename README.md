@@ -10,7 +10,11 @@ English:
   -> C
   
   -> Java
-  
+
+- 🧾Applying to: Software Engineer, 2° Semester, Universidade Cidade Verde (UNICV)
+
+##
+
 
 Português:
 
@@ -20,6 +24,8 @@ Português:
   
   -> Java
 
+- 🧾Aplicando para: Engenharia de Software, 2° Semestre, Universidade Cidade Verde (UNICV)
+  
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=tokyonight)
