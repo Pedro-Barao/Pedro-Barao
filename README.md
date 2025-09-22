@@ -23,9 +23,8 @@ Português:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=light"
     media="(prefers-color-scheme: dark)"
-    title_color="red"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
