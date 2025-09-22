@@ -21,14 +21,5 @@ Português:
   -> Java
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=dark&text_color=red"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&text_color=red"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=truetext_color=red" />
-</picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=radical)
