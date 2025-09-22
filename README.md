@@ -10,8 +10,7 @@ English:
   -> C
   
   -> Java
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=tokyonight)
+  
 
 Português:
 
@@ -22,4 +21,5 @@ Português:
   -> Java
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_locale=pt-br&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=tokyonight&show_layout=pie)
