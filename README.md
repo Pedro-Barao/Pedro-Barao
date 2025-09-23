@@ -1,42 +1,39 @@
-## Hi there, I'm Pedro👋
-## Olá, Eu sou o Pedro👋
+## Hi there, I'm Pedro👋/ Olá, Eu sou o Pedro👋
 
 
 
-English:
+- **🌱 I’m currently learning/Estou estudando no momento:**
 
-- 🌱 I’m currently learning:
-
-  -> C
+  -> <img align="center" alt="Rafa-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
-  -> Java
+  -> <img align="center" alt="Rafa-C" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-- 🧾Applying to: Software Engineer, 2° Semester, Universidade Cidade Verde (UNICV)
-
-##
-
-
-Português:
-
-- 🌱 Eu estou aprendendo no momento:
-  
-  -> C
-  
-  -> Java
-
-- 🧾Aplicando para: Engenharia de Software, 2° Semestre, Universidade Cidade Verde (UNICV)
+- **🧾Applying to/Aplicando para: Software Engineer, 2° Semester, Universidade Cidade Verde (UNICV)**
   
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=tokyonight)
 
+<div style="display: inline_block">
+  
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="Rafa-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  
 </div>
 
+<br/>
+
+
+| ***Languages/Lingagens*** | ***Time Studing/Tempo Estudando*** |
+| ------------- | ------------- |
+| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white) | > 1 year/ano |
+| ![C](https://img.shields.io/badge/-C-055ebd?style=flat&logo=c&logoColor=white) | > 1 year/ano |
+| ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) | 1 year/ano |
+
+  
 ##
 
 <div>
