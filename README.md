@@ -35,7 +35,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Barao&layout=donut-vertical&show_icons=true&theme=tokyonight)](https://github.com/Pedro-Barao/Hello-Worldgithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Barao&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/Pedro-Barao/Hello-Worldgithub-readme-stats)
 
 ##
 
