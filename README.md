@@ -33,7 +33,10 @@
 | ![C](https://img.shields.io/badge/-C-055ebd?style=flat&logo=c&logoColor=white) | > 1 year/ano |
 | ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) | 1 year/ano |
 
-  
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Barao&layout=donut-vertical&show_icons=true&theme=tokyonight)](https://github.com/Pedro-Barao/Hello-Worldgithub-readme-stats)
+
 ##
 
 <div>
