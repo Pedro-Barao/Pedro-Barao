@@ -12,7 +12,8 @@
   
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBarao&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Barao&show_icons=true&theme=tokyonight&count_private=false)
+
 
 <div style="display: inline_block">
   
@@ -35,7 +36,8 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Barao&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/Pedro-Barao/Hello-Worldgithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Barao&layout=donut-vertical&show_icons=true&theme=radical&count_private=false)](https://github.com/Pedro-Barao)
+
 
 ##
 
