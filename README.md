@@ -8,7 +8,7 @@
   
   -> <img align="center" alt="Rafa-C" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-- **🧾Applying to/Aplicando para: Software Engineer, 2° Semester, Universidade Cidade Verde (UNICV)**
+- **🧾Applying to/Aplicando para: Software Engineer, 3° Semester, Universidade Cidade Verde (UNICV)**
   
 ##
 
@@ -30,8 +30,8 @@
 
 | ***Languages/Lingagens*** | ***Time Studing/Tempo Estudando*** |
 | ------------- | ------------- |
-| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white) | > 1 year/ano |
-| ![C](https://img.shields.io/badge/-C-055ebd?style=flat&logo=c&logoColor=white) | > 1 year/ano |
+| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white) | 1 year/ano |
+| ![C](https://img.shields.io/badge/-C-055ebd?style=flat&logo=c&logoColor=white) | 1 year/ano |
 | ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) | 1 year/ano |
 
 <br/>
