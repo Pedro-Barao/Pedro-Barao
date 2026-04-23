@@ -68,38 +68,39 @@
 
 <div align="center">
   
-# 🐉 Ficha de Personagem / Character Sheet 🐉
+# 🐉 Character Sheet / Ficha de Personagem 🐉
 
-*“Rolei um D20 para consertar o bug. Tirei 1. O servidor caiu.”* 🎲
-
-</div>
+*“I rolled a D20 to fix the bug. I got a 1. The server crashed.”* 🎲
+*“Rolei um D20 para consertar o bug. Tirei 1. O servidor caiu.”* </div>
 
 ---
 
 ### 📜 Lore / História de Origem
 
-> Originário das terras de Maringá, este aventureiro iniciou sua jornada na grandiosa guilda acadêmica UNICIVE. Armado com raciocínio lógico e movido a poções (também conhecidas como café), ele explora as perigosas masmorras do Back-End e decifra os pergaminhos ancestrais do código legado. Seu objetivo final? Alcançar o nível máximo como Engenheiro de Software e derrotar o temível lorde "Bug de Produção".
+> 🇺🇸 Hailing from the lands of Maringá, this adventurer began his journey in the grand academic guild UNICIVE. Armed with logical reasoning and fueled by potions (also known as coffee), he explores the dangerous dungeons of the Back-End and deciphers the ancient scrolls of legacy code. His ultimate goal? To reach the max level as a Software Engineer and defeat the fearsome lord "Production Bug".
+>
+> 🇧🇷 *Originário das terras de Maringá, este aventureiro iniciou sua jornada na grandiosa guilda acadêmica UNICIVE. Armado com raciocínio lógico e movido a poções (também conhecidas como café), ele explora as perigosas masmorras do Back-End e decifra os pergaminhos ancestrais do código legado. Seu objetivo final? Alcançar o nível máximo como Engenheiro de Software e derrotar o temível lorde "Bug de Produção".*
 
 ---
 
-### 🛡️ Status Básicos
+### 🛡️ Basic Status / Status Básicos
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; border-collapse: collapse;">
   <tr>
     <td align="center" valign="middle" style="padding: 10px;">
-      <b>🧙‍♂️ Classe:</b><br>
+      <b>🧙‍♂️ Class / Classe:</b><br>
       <img src="https://img.shields.io/badge/Software__Engineer-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Class">
     </td>
     <td align="center" valign="middle" style="padding: 10px;">
-      <b>📈 Nível:</b><br>
+      <b>📈 Level / Nível:</b><br>
       <img src="https://img.shields.io/badge/3%C2%B0__Semester-ff9e00?style=for-the-badge&logo=codewars&logoColor=white" alt="Level">
     </td>
     <td align="center" valign="middle" style="padding: 10px;">
-      <b>🏰 Guilda:</b><br>
+      <b>🏰 Guild / Guilda:</b><br>
       <img src="https://img.shields.io/badge/UNICIVE-005ebd?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Guild">
     </td>
     <td align="center" valign="middle" style="padding: 10px;">
-      <b>⚖️ Alinhamento:</b><br>
+      <b>⚖️ Alignment / Alinhamento:</b><br>
       <img src="https://img.shields.io/badge/Neutral__Good-1ca736?style=for-the-badge&logo=linux&logoColor=white" alt="Alignment">
     </td>
   </tr>
@@ -107,37 +108,37 @@
 
 ---
 
-### 🎲 Atributos de Dev (Ability Scores)
+### 🎲 Ability Scores / Atributos de Dev
 
-| Atributos | Nível | Valor | Descrição / Efeito Prático |
-| :---: | :--- | :---: | :---: | 
-| **Lógica** | **18** | +4 | Força bruta para resolver algoritmos complexos e estruturar sistemas pesados. |
-| **Sintaxe** | **16** | +3 | Agilidade para digitar rápido e desviar de erros fatais de ponto e vírgula `;`. |
-| **Cafeína** | **14** | +2 | Resistência absurda contra privação de sono e longas sessões de Debugging. |
-| **StackOverflow**| **11** | +0 | Capacidade investigativa de encontrar a resposta exata para feitiços desconhecidos. |
-| **Arquitetura** | **9** | -1 | Sabedoria para entender *por que* o código funciona (atributo ainda em treinamento). |
-| **Documentação** | **15** | +2 | Tentar convencer a equipe de que "o código fala por si só e não precisa de comentários". |
-
----
-
-### ⚔️ Arsenal (Armas Equipadas)
-
-*As ferramentas que já domino e levo para a linha de frente do combate.*
-
-| Arma (Linguagem) | Tipo de Arma | Experiência | Característica de Combate |
-| :--- | :--- | :---: | :--- |
-| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | **Espada Montante** | 1 Ano | Dano massivo com Orientação a Objetos. É pesada, confiável, mas gasta muita RAM para ser empunhada. |
-| ![C](https://img.shields.io/badge/-C-055ebd?style=flat&logo=c&logoColor=white) | **Arco Longo** | 1 Ano | Rápido e letal (Gerenciamento direto de Memória). O risco de atirar no próprio pé usando *Ponteiros* é altíssimo. |
-| ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) | **Cajado Versátil** | 1 Ano | Conjuração extremamente rápida. Perfeito para automatizar ataques e criar poções de dados, porém sua instabilidade devido a falta de uso é aparente |
+| Attributes / Atributos | Level / Nível | Value / Valor | Description / Efeito Prático |
+| :---: | :--- | :---: | :--- | 
+| **Logic / Lógica** | **18** | +4 | Brute force to solve complex algorithms and structure heavy systems.<br>*Força bruta para resolver algoritmos complexos e estruturar sistemas pesados.* |
+| **Syntax / Sintaxe** | **16** | +3 | Agility to type fast and dodge fatal semicolon `;` errors.<br>*Agilidade para digitar rápido e desviar de erros fatais de ponto e vírgula `;`.* |
+| **Caffeine / Cafeína** | **14** | +2 | Absurd resistance against sleep deprivation and long debugging sessions.<br>*Resistência absurda contra privação de sono e longas sessões de Debugging.* |
+| **StackOverflow**| **11** | +0 | Investigative ability to find the exact answer for unknown spells.<br>*Capacidade investigativa de encontrar a resposta exata para feitiços desconhecidos.* |
+| **Architecture / Arquitetura** | **9** | -1 | Wisdom to understand *why* the code works (attribute still in training).<br>*Sabedoria para entender *por que* o código funciona (atributo ainda em treinamento).* |
+| **Documentation / Documentação** | **15** | +2 | Trying to convince the team that "the code speaks for itself and needs no comments".<br>*Tentar convencer a equipe de que "o código fala por si só e não precisa de comentários".* |
 
 ---
 
-### 📖 Grimório (Magias em Estudo)
+### ⚔️ Arsenal (Equipped Weapons / Armas Equipadas)
 
-*Feitiços que estou decifrando atualmente no meu livro de magias.*
+*The tools I already master and take to the front lines of combat. / As ferramentas que já domino e levo para a linha de frente do combate.*
 
-| Feitiço (Linguagem) | Escola de Magia | Nível da Magia | Efeito Visual |
+| Weapon / Arma (Linguagem) | Type / Tipo | Exp. | Combat Trait / Característica de Combate |
 | :--- | :--- | :---: | :--- |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | **Ilusão (Front-End)** | Truque (Cantrip) | Altera a estrutura visual da realidade da web. Pode conjurar botões e invocar imagens, porém ainda se estrutura visualmente mal, sendo perceptível aos olhos de inimigos |
+| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | **Greatsword / Espada Montante** | 1 Year / Ano | Massive damage with Object-Oriented Programming. It's heavy, reliable, but consumes a lot of RAM to wield.<br>*Dano massivo com Orientação a Objetos. É pesada, confiável, mas gasta muita RAM para ser empunhada.* |
+| ![C](https://img.shields.io/badge/-C-055ebd?style=flat&logo=c&logoColor=white) | **Longbow / Arco Longo** | 1 Year / Ano | Fast and lethal (Direct memory management). The risk of shooting yourself in the foot using *Pointers* is extremely high.<br>*Rápido e letal (Gerenciamento direto de Memória). O risco de atirar no próprio pé usando *Ponteiros* é altíssimo.* |
+| ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) | **Versatile Staff / Cajado Versátil** | 1 Year / Ano | Extremely fast conjuration. Perfect for automating attacks and creating data potions, but its instability due to lack of use is apparent.<br>*Conjuração extremamente rápida. Perfeito para automatizar ataques e criar poções de dados, porém sua instabilidade devido a falta de uso é aparente.* |
+
+---
+
+### 📖 Grimoire / Grimório (Spells in Study / Magias em Estudo)
+
+*Spells I am currently deciphering in my spellbook. / Feitiços que estou decifrando atualmente no meu livro de magias.*
+
+| Spell / Feitiço (Linguagem) | School / Escola | Level / Nível | Visual Effect / Efeito Visual |
+| :--- | :--- | :---: | :--- |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | **Illusion / Ilusão (Front-End)** | Cantrip / Truque | Alters the visual structure of web reality. Can conjure buttons and summon images, but still visually structures itself poorly, being noticeable to enemies' eyes.<br>*Altera a estrutura visual da realidade da web. Pode conjurar botões e invocar imagens, porém ainda se estrutura visualmente mal, sendo perceptível aos olhos de inimigos.* |
 
 <br/>
