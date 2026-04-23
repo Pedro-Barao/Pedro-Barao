@@ -21,7 +21,7 @@
 ### 📜 Current Quest / Missão Atual
 
 - **🎯 Applying to / Aplicando para:** Software Engineer / Engenharia de Software
-- **🏰 Level / Nível:** 3° Semester, Universidade Cidade Verde (UNICVE)
+- **🏰 Level / Nível:** 3° Semester, Universidade Cidade Verde (UNICIVE)
 
 ---
 
